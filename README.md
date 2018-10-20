@@ -6,4 +6,4 @@ In this example, the bounding box for entire Germany (5.98865807458, 47.30248769
 
 *WATCH OUT*: The URL structure is different to the usual `bbox = min Longitude , min Latitude , max Longitude , max Latitude` bounding box structure and needs to be modified when filling in the values!
 
-The script converts the JSON served by the Continental API into a .csv file that can for example be uploaded into a Google Maps. See as an example: https://www.google.com/maps/d/edit?mid=1JU_Sd7s8g0JkgAHraLpNi9O_g6iy0l3&ll=50.82701897592185%2C10.61595699999998&z=6
+The script converts the JSON served by the Continental API into a .csv file that can for example be uploaded into a Google Maps. See as an example: https://drive.google.com/open?id=1JU-_Sd7s8g0JkgAHraLpNi9O_g6iy0l3&usp=sharing
